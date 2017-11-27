@@ -23,9 +23,9 @@
     "webpack": "webpack --config webpack.config.js"
   },
   "dependencies": {
-    "bsock": "^0.0.1"
   },
   "devDependencies": {
+    "bsock": "github:bcoin-org/bsock",
     "babelify": "^7.3.0",
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
